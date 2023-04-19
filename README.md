@@ -1,5 +1,5 @@
 # Car-AI
-<p> Small AI of a car run on coppeliasim <\p>
+Small AI of a car run on coppeliasim\n
 Language used : C
 
 
